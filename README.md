@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @odabasi44
-- 👀 I’m interested in html, css, js, c#, Kotlin, swift, python AI and machine learning
+- 👀 I’m interested in Html, Css, Js, C#, Flutter, Python AI and Machine Learning
 - 🌱 I’m currently learning c# and asp.net.
 - 💞️ I'm Looking to Collaborate Artificial Intelligence I can cooperate to improve myself in studies.
 - 📫 How to reach me ahmetodabasi44@gmail.com, odabasillc@gmail.com, odasoft44@gmail.com
