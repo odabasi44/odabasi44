@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T13:56:01.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_QkDyrqNK1YEU5zmDqYc" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-07T13:56:16.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="q7Y0UbRASIYlXVxOt7ZJ" version="15.9.1" type="github" pages="2">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -94,13 +94,13 @@
             <mxPoint x="560" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxnvGN7nutHtc66c366s-34" value="&lt;font style=&quot;font-size: 6px&quot;&gt;ÖDEMENİN YAPILIP YAPILMADIĞINI MUHASEBE-PAZARLAMA-İMALAT MÜDÜRÜ KONTROL SAĞLAR. BURADA SİPARİŞİN ÖDEMESİNİN YAPILDIĞINA DAİR DEKONT EKRAN GÖRÜNTÜSÜ VEYA EVRAK İLİŞTİRİLİR.&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="hxnvGN7nutHtc66c366s-34" value="&lt;font style=&quot;font-size: 6px&quot;&gt;ÖDEMENİN YAPILIP YAPILMADIĞINI MUHASEBE-PAZARLAMA-İMALAT MÜDÜRÜ KONTROL SAĞLAR. BURADA SİPARİŞİN ÖDEMESİNİN YAPILDIĞINA DAİR DEKONT EKRAN GÖRÜNTÜSÜ VEYA EVRAK İLİŞTİRİLİR.&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="170" y="250" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hxnvGN7nutHtc66c366s-38" value="ÖN TASARIM İÇİN TERMİN&amp;nbsp; TARİHİ ALINIR." style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="630" y="195" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hxnvGN7nutHtc66c366s-44" value="&lt;font style=&quot;font-size: 7px&quot;&gt;ÖN TASARIM&lt;br&gt;&amp;nbsp;İÇİN GRAFİK TASARIM &#39;DAN TERMİN TARİHİ ALINIR. BU MÜŞTERİYE İLETİLİR.&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="hxnvGN7nutHtc66c366s-44" value="&lt;font style=&quot;font-size: 7px&quot;&gt;ÖN TASARIM&lt;br&gt;&amp;nbsp;İÇİN GRAFİK TASARIM &#39;DAN TERMİN TARİHİ ALINIR. BU MÜŞTERİYE İLETİLİR.&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="735" y="180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hxnvGN7nutHtc66c366s-45" value="&lt;font style=&quot;font-size: 13px&quot;&gt;HAYIR&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=7;" parent="1" vertex="1">
@@ -135,10 +135,10 @@
         <mxCell id="hxnvGN7nutHtc66c366s-61" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ÜRETİM&amp;nbsp; ONAYLANIR.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="190" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gYenym_qDPM7HBAAErkC-1" value="&lt;span style=&quot;font-size: 7px&quot;&gt;NUMUNEDEN ONAY ALDIKTAN SONRA SİSTEME GİRİLEN NUMUNE FORMU SİPARİŞ FORMUNA DÖNÜŞTÜRÜLÜR. BU FORM MÜŞTERİDEN ISLAK İMZALI ŞEKİLDE&amp;nbsp; TEKRAR TALEP EDİLİR.&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="gYenym_qDPM7HBAAErkC-1" value="&lt;span style=&quot;font-size: 7px&quot;&gt;NUMUNEDEN ONAY ALDIKTAN SONRA SİSTEME GİRİLEN NUMUNE FORMU SİPARİŞ FORMUNA DÖNÜŞTÜRÜLÜR. BU FORM MÜŞTERİDEN ISLAK İMZALI ŞEKİLDE&amp;nbsp; TEKRAR TALEP EDİLİR.&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="335" y="600" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gYenym_qDPM7HBAAErkC-2" value="&lt;font style=&quot;font-size: 7px&quot;&gt;MÜŞTERİ İLE İLETİŞİM SONRASINDA GELEN İSTEKLER DOĞRULTUSUNDA PROFORMA FORM TUTULUR.&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="gYenym_qDPM7HBAAErkC-2" value="&lt;font style=&quot;font-size: 7px&quot;&gt;MÜŞTERİ İLE İLETİŞİM SONRASINDA GELEN İSTEKLER DOĞRULTUSUNDA PROFORMA FORM TUTULUR.&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="645" y="70" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gYenym_qDPM7HBAAErkC-3" value="&lt;span style=&quot;font-size: 7px&quot;&gt;ALINAN ISLAK İMZALI FORM &quot;YENİ SİPARİŞ&quot; SİSTEMİNE KAYDEDİLİR. BELGEDE YÜKLENİR.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
